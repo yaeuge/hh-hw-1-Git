@@ -1,0 +1,12 @@
+[submodule "repoA"]
+	path = repoA
+	url = https://github.com/yaeuge/repoA
+[submodule "repoB"]
+	path = repoB
+	url = https://github.com/yaeuge/repoB
+[submodule "frontik-no-testing"]
+	path = frontik-no-testing
+	url = https://github.com/yaeuge/frontik-no-testing
+[submodule "frontik-testing"]
+	path = frontik-testing
+	url = https://github.com/yaeuge/frontik-testing
